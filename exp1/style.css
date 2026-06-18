@@ -1,0 +1,41 @@
+ body { 
+      background-color: #f2f2f2; 
+    } 
+ 
+    .header { 
+      background-color: #2f7de1; 
+      color: white; 
+      text-align: center; 
+      padding: 30px; 
+      font-size: 36px; 
+      font-weight: bold; 
+    } 
+ 
+    .navbar-custom { 
+      background-color: #222; 
+    } 
+ 
+    .navbar-custom a { 
+      color: white !important; 
+    } 
+ 
+    .content { 
+      padding: 40px 20px; 
+      min-height: 250px; 
+    } 
+ 
+    .content h4 { 
+      font-weight: bold; 
+    } 
+ 
+    .divider { 
+      border-right: 2px solid gray; 
+    } 
+ 
+    .footer { 
+      background-color: #222; 
+      color: white; 
+      text-align: center; 
+      padding: 10px; 
+      font-size: 14px; 
+    } 
